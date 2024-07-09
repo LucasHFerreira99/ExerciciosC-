@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\bin\Debug\net8.0\exercicios1-estrutura-sequencial.exe
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\bin\Debug\net8.0\exercicios1-estrutura-sequencial.deps.json
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\bin\Debug\net8.0\exercicios1-estrutura-sequencial.runtimeconfig.json
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\bin\Debug\net8.0\exercicios1-estrutura-sequencial.dll
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\bin\Debug\net8.0\exercicios1-estrutura-sequencial.pdb
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.dll
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\refint\exercicios1-estrutura-sequencial.dll
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.pdb
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\exercicios1-estrutura-sequencial.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\exercicios1-estrutura-sequencial\exercicios1-estrutura-sequencial\obj\Debug\net8.0\ref\exercicios1-estrutura-sequencial.dll

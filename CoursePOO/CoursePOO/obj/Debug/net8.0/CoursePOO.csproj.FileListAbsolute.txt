@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\bin\Debug\net8.0\CoursePOO.exe
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\bin\Debug\net8.0\CoursePOO.deps.json
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\bin\Debug\net8.0\CoursePOO.runtimeconfig.json
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\bin\Debug\net8.0\CoursePOO.dll
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\bin\Debug\net8.0\CoursePOO.pdb
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.dll
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\refint\CoursePOO.dll
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.pdb
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\CoursePOO.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CoursePOO\CoursePOO\obj\Debug\net8.0\ref\CoursePOO.dll

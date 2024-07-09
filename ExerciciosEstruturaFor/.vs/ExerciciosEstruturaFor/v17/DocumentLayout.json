@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\ExerciciosEstruturaFor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C0347D-888D-459F-AACB-6297CFAD8A3E}|ExerciciosEstruturaFor\\ExerciciosEstruturaFor.csproj|c:\\users\\lucas\\source\\repos\\exerciciosestruturafor\\exerciciosestruturafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C0347D-888D-459F-AACB-6297CFAD8A3E}|ExerciciosEstruturaFor\\ExerciciosEstruturaFor.csproj|solutionrelative:exerciciosestruturafor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExerciciosEstruturaFor\\ExerciciosEstruturaFor\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosEstruturaFor\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExerciciosEstruturaFor\\ExerciciosEstruturaFor\\Program.cs",
+              "RelativeToolTip": "ExerciciosEstruturaFor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:58:29.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

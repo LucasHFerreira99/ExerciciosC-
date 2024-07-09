@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net8.0\ExFixacaoLista.exe
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net8.0\ExFixacaoLista.deps.json
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net8.0\ExFixacaoLista.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net8.0\ExFixacaoLista.dll
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\bin\Debug\net8.0\ExFixacaoLista.pdb
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.dll
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\refint\ExFixacaoLista.dll
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.pdb
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ExFixacaoLista.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExFixacaoLista\ExFixacaoLista\obj\Debug\net8.0\ref\ExFixacaoLista.dll

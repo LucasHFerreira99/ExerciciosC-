@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExFixacaoArrays/1.0.0": {
+        "runtime": {
+          "ExFixacaoArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExFixacaoArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

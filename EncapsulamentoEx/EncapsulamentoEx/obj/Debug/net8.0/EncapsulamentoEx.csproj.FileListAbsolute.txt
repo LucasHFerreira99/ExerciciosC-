@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\bin\Debug\net8.0\EncapsulamentoEx.exe
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\bin\Debug\net8.0\EncapsulamentoEx.deps.json
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\bin\Debug\net8.0\EncapsulamentoEx.runtimeconfig.json
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\bin\Debug\net8.0\EncapsulamentoEx.dll
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\bin\Debug\net8.0\EncapsulamentoEx.pdb
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.dll
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\refint\EncapsulamentoEx.dll
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.pdb
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\EncapsulamentoEx.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\EncapsulamentoEx\EncapsulamentoEx\obj\Debug\net8.0\ref\EncapsulamentoEx.dll

@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\services\\onlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\services\\onlinepaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\services\\contractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|c:\\users\\lucas\\source\\repos\\exinterface\\exinterface\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0B5140-00FD-4829-A81E-812BB86CE35E}|ExInterface\\ExInterface.csproj|solutionrelative:exinterface\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Entities\\Contract.cs",
+              "RelativeToolTip": "ExInterface\\Entities\\Contract.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:02:22.53Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Services\\PaypalService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\PaypalService.cs",
+              "RelativeToolTip": "ExInterface\\Services\\PaypalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:26:15.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlinePaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\OnlinePaymentService.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Services\\OnlinePaymentService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\OnlinePaymentService.cs",
+              "RelativeToolTip": "ExInterface\\Services\\OnlinePaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:24:08.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractService.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\ContractService.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Services\\ContractService.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Services\\ContractService.cs",
+              "RelativeToolTip": "ExInterface\\Services\\ContractService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:09:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Entities\\Installment.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Entities\\Installment.cs",
+              "RelativeToolTip": "ExInterface\\Entities\\Installment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:41.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ExInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExInterface\\ExInterface\\Program.cs",
+              "RelativeToolTip": "ExInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:55:29.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

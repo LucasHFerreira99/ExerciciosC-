@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\ExFixacaoLista\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B8593C-9D11-45F1-9C7E-1A9FAD8AE20E}|ExFixacaoLista\\ExFixacaoLista.csproj|c:\\users\\lucas\\source\\repos\\exfixacaolista\\exfixacaolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B8593C-9D11-45F1-9C7E-1A9FAD8AE20E}|ExFixacaoLista\\ExFixacaoLista.csproj|solutionrelative:exfixacaolista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B8593C-9D11-45F1-9C7E-1A9FAD8AE20E}|ExFixacaoLista\\ExFixacaoLista.csproj|c:\\users\\lucas\\source\\repos\\exfixacaolista\\exfixacaolista\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B8593C-9D11-45F1-9C7E-1A9FAD8AE20E}|ExFixacaoLista\\ExFixacaoLista.csproj|solutionrelative:exfixacaolista\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExFixacaoLista\\ExFixacaoLista\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ExFixacaoLista\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExFixacaoLista\\ExFixacaoLista\\Funcionario.cs",
+              "RelativeToolTip": "ExFixacaoLista\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:27:40.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\ExFixacaoLista\\ExFixacaoLista\\Program.cs",
+              "RelativeDocumentMoniker": "ExFixacaoLista\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\ExFixacaoLista\\ExFixacaoLista\\Program.cs",
+              "RelativeToolTip": "ExFixacaoLista\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:25:35.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

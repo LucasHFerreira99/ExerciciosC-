@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\bin\Debug\net8.0\ExEnumComp.exe
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\bin\Debug\net8.0\ExEnumComp.deps.json
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\bin\Debug\net8.0\ExEnumComp.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\bin\Debug\net8.0\ExEnumComp.dll
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\bin\Debug\net8.0\ExEnumComp.pdb
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.dll
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\refint\ExEnumComp.dll
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.pdb
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ExEnumComp.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExEnumComp\ExEnumComp\obj\Debug\net8.0\ref\ExEnumComp.dll

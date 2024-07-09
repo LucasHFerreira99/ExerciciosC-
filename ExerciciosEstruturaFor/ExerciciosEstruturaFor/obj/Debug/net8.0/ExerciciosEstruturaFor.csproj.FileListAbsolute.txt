@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\bin\Debug\net8.0\ExerciciosEstruturaFor.exe
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\bin\Debug\net8.0\ExerciciosEstruturaFor.deps.json
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\bin\Debug\net8.0\ExerciciosEstruturaFor.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\bin\Debug\net8.0\ExerciciosEstruturaFor.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\bin\Debug\net8.0\ExerciciosEstruturaFor.pdb
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\refint\ExerciciosEstruturaFor.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.pdb
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ExerciciosEstruturaFor.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaFor\ExerciciosEstruturaFor\obj\Debug\net8.0\ref\ExerciciosEstruturaFor.dll

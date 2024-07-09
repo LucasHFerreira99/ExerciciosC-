@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\bin\Debug\net8.0\ExHerancaEPolimorfismo.exe
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\bin\Debug\net8.0\ExHerancaEPolimorfismo.deps.json
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\bin\Debug\net8.0\ExHerancaEPolimorfismo.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\bin\Debug\net8.0\ExHerancaEPolimorfismo.dll
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\bin\Debug\net8.0\ExHerancaEPolimorfismo.pdb
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.dll
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\refint\ExHerancaEPolimorfismo.dll
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.pdb
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ExHerancaEPolimorfismo.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExHerancaEPolimorfismo\ExHerancaEPolimorfismo\obj\Debug\net8.0\ref\ExHerancaEPolimorfismo.dll

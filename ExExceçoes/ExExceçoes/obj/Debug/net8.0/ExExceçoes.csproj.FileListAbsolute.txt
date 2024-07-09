@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\bin\Debug\net8.0\ExExceçoes.exe
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\bin\Debug\net8.0\ExExceçoes.deps.json
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\bin\Debug\net8.0\ExExceçoes.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\bin\Debug\net8.0\ExExceçoes.dll
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\bin\Debug\net8.0\ExExceçoes.pdb
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.dll
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\refint\ExExceçoes.dll
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.pdb
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ExExceçoes.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExExceçoes\ExExceçoes\obj\Debug\net8.0\ref\ExExceçoes.dll

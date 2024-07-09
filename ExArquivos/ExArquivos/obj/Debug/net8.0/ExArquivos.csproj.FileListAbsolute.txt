@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\bin\Debug\net8.0\ExArquivos.exe
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\bin\Debug\net8.0\ExArquivos.deps.json
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\bin\Debug\net8.0\ExArquivos.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\bin\Debug\net8.0\ExArquivos.dll
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\bin\Debug\net8.0\ExArquivos.pdb
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.dll
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\refint\ExArquivos.dll
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.pdb
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ExArquivos.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExArquivos\ExArquivos\obj\Debug\net8.0\ref\ExArquivos.dll

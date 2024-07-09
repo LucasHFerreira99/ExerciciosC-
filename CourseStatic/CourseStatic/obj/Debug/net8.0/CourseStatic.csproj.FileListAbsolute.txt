@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\bin\Debug\net8.0\CourseStatic.exe
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\bin\Debug\net8.0\CourseStatic.deps.json
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\bin\Debug\net8.0\CourseStatic.runtimeconfig.json
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\bin\Debug\net8.0\CourseStatic.dll
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\bin\Debug\net8.0\CourseStatic.pdb
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.dll
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\refint\CourseStatic.dll
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.pdb
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\CourseStatic.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\CourseStatic\CourseStatic\obj\Debug\net8.0\ref\CourseStatic.dll

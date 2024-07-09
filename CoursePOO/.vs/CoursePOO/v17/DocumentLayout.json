@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\CoursePOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2193C2C0-7154-4FBA-8CB3-7EAAE12B471B}|CoursePOO\\CoursePOO.csproj|c:\\users\\lucas\\source\\repos\\coursepoo\\coursepoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2193C2C0-7154-4FBA-8CB3-7EAAE12B471B}|CoursePOO\\CoursePOO.csproj|solutionrelative:coursepoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2193C2C0-7154-4FBA-8CB3-7EAAE12B471B}|CoursePOO\\CoursePOO.csproj|c:\\users\\lucas\\source\\repos\\coursepoo\\coursepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2193C2C0-7154-4FBA-8CB3-7EAAE12B471B}|CoursePOO\\CoursePOO.csproj|solutionrelative:coursepoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\CoursePOO\\CoursePOO\\Aluno.cs",
+              "RelativeDocumentMoniker": "CoursePOO\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\CoursePOO\\CoursePOO\\Aluno.cs",
+              "RelativeToolTip": "CoursePOO\\Aluno.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:52:10.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\CoursePOO\\CoursePOO\\Program.cs",
+              "RelativeDocumentMoniker": "CoursePOO\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\CoursePOO\\CoursePOO\\Program.cs",
+              "RelativeToolTip": "CoursePOO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:32:02.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\bin\Debug\net8.0\ExerciciosEstruturaCondicional.exe
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\bin\Debug\net8.0\ExerciciosEstruturaCondicional.deps.json
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\bin\Debug\net8.0\ExerciciosEstruturaCondicional.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\bin\Debug\net8.0\ExerciciosEstruturaCondicional.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\bin\Debug\net8.0\ExerciciosEstruturaCondicional.pdb
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\refint\ExerciciosEstruturaCondicional.dll
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.pdb
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ExerciciosEstruturaCondicional.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExerciciosEstruturaCondicional\ExerciciosEstruturaCondicional\obj\Debug\net8.0\ref\ExerciciosEstruturaCondicional.dll

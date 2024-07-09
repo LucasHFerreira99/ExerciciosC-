@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\bin\Debug\net8.0\ExMatriz.exe
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\bin\Debug\net8.0\ExMatriz.deps.json
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\bin\Debug\net8.0\ExMatriz.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\bin\Debug\net8.0\ExMatriz.dll
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\bin\Debug\net8.0\ExMatriz.pdb
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.dll
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\refint\ExMatriz.dll
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.pdb
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ExMatriz.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExMatriz\ExMatriz\obj\Debug\net8.0\ref\ExMatriz.dll

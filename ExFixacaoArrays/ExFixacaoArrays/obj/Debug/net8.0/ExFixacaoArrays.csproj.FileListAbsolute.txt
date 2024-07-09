@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\bin\Debug\net8.0\ExFixacaoArrays.exe
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\bin\Debug\net8.0\ExFixacaoArrays.deps.json
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\bin\Debug\net8.0\ExFixacaoArrays.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\bin\Debug\net8.0\ExFixacaoArrays.dll
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\bin\Debug\net8.0\ExFixacaoArrays.pdb
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.dll
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\refint\ExFixacaoArrays.dll
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.pdb
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ExFixacaoArrays.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExFixacaoArrays\ExFixacaoArrays\obj\Debug\net8.0\ref\ExFixacaoArrays.dll

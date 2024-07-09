@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ExSet\ExSet\bin\Debug\net8.0\ExSet.exe
+C:\Users\Lucas\source\repos\ExSet\ExSet\bin\Debug\net8.0\ExSet.deps.json
+C:\Users\Lucas\source\repos\ExSet\ExSet\bin\Debug\net8.0\ExSet.runtimeconfig.json
+C:\Users\Lucas\source\repos\ExSet\ExSet\bin\Debug\net8.0\ExSet.dll
+C:\Users\Lucas\source\repos\ExSet\ExSet\bin\Debug\net8.0\ExSet.pdb
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.dll
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\refint\ExSet.dll
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.pdb
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ExSet.genruntimeconfig.cache
+C:\Users\Lucas\source\repos\ExSet\ExSet\obj\Debug\net8.0\ref\ExSet.dll
